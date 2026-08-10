@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+tmp/
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Local assignment and handoff copies; the repository contains the clean project.
+Project_ SoCal ZIP×Time Market Score Model.pdf
+SoCal_Market_Score_Final_Submission/
+SoCal_Market_Score_Final_Submission.zip

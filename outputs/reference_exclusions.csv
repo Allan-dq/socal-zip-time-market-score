@@ -1,0 +1,61 @@
+Zip Code,City,County,Market Score raw,Exclusion reason
+90004,Los Angeles,Los Angeles County,46,No 2025 market record
+90008,Los Angeles,Los Angeles County,55,No 2025 market record
+90011,Los Angeles,Los Angeles County,50,No 2025 market record
+90012,Los Angeles,Los Angeles County,47,No 2025 market record
+90013,Los Angeles,Los Angeles County,28,No 2025 market record
+90018,Los Angeles,Los Angeles County,36,No 2025 market record
+90021,Los Angeles,Los Angeles County,/,Reference score is not numeric; No 2025 market record
+90022,Los Angeles,Los Angeles County,68,No 2025 market record
+90026,Los Angeles,Los Angeles County,74,No 2025 market record
+90029,Los Angeles,Los Angeles County,49,No 2025 market record
+90031,Los Angeles,Los Angeles County,61,No 2025 market record
+90034,Los Angeles,Los Angeles County,75,No 2025 market record
+90037,Los Angeles,Los Angeles County,51,No 2025 market record
+90038,Los Angeles,Los Angeles County,18,No 2025 market record
+90043,Los Angeles,Los Angeles County,54,No 2025 market record
+90046,Los Angeles,Los Angeles County,36,No 2025 market record
+90047,Los Angeles,Los Angeles County,63,No 2025 market record
+90050,Los Angeles,Los Angeles County,/,Reference score is not numeric; No 2025 market record
+90058,Los Angeles,Los Angeles County,/,Reference score is not numeric
+90063,Los Angeles,Los Angeles County,62,No 2025 market record
+90076,Los Angeles,Los Angeles County,/,Reference score is not numeric; No 2025 market record
+90081,Los Angeles,Los Angeles County,/,Reference score is not numeric; No 2025 market record
+90082,Los Angeles,Los Angeles County,/,Reference score is not numeric; No 2025 market record
+90093,Los Angeles,Los Angeles County,/,Reference score is not numeric; No 2025 market record
+90099,Los Angeles,Los Angeles County,/,Reference score is not numeric; No 2025 market record
+90101,Los Angeles,Los Angeles County,/,Reference score is not numeric; No 2025 market record
+92602,Irvine,Orange County,48,No 2025 market record
+92603,Irvine,Orange County,63,No 2025 market record
+92604,Irvine,Orange County,69,No 2025 market record
+92614,Irvine,Orange County,71,No 2025 market record
+92620,Irvine,Orange County,54,No 2025 market record
+92704,Santa Ana,Orange County,76,No 2025 market record
+92705,Santa Ana,Orange County,59,No 2025 market record
+92711,Santa Ana,Orange County,/,Reference score is not numeric
+92401,San Bernardino,San Bernardino County,/,Reference score is not numeric; No 2025 market record
+92405,San Bernardino,San Bernardino County,57,No 2025 market record
+92410,San Bernardino,San Bernardino County,57,No 2025 market record
+92411,San Bernardino,San Bernardino County,76,No 2025 market record
+92413,San Bernardino,San Bernardino County,/,Reference score is not numeric; No 2025 market record
+92102,San Diego,San Diego County,75,No 2025 market record
+92105,San Diego,San Diego County,75,No 2025 market record
+92107,San Diego,San Diego County,74,No 2025 market record
+92110,San Diego,San Diego County,76,No 2025 market record
+92119,San Diego,San Diego County,80,No 2025 market record
+92128,San Diego,San Diego County,72,No 2025 market record
+92129,San Diego,San Diego County,73,No 2025 market record
+92132,San Diego,San Diego County,62,No 2025 market record
+92139,San Diego,San Diego County,91,No 2025 market record
+92142,San Diego,San Diego County,/,Reference score is not numeric; No 2025 market record
+92160,San Diego,San Diego County,/,Reference score is not numeric
+92165,San Diego,San Diego County,/,Reference score is not numeric; No 2025 market record
+92170,San Diego,San Diego County,/,Reference score is not numeric; No 2025 market record
+92171,San Diego,San Diego County,/,Reference score is not numeric; No 2025 market record
+92193,San Diego,San Diego County,/,Reference score is not numeric; No 2025 market record
+92195,San Diego,San Diego County,/,Reference score is not numeric; No 2025 market record
+92196,San Diego,San Diego County,/,Reference score is not numeric
+92505,Riverside,Riverside County,69,No 2025 market record
+92513,Riverside,Riverside County,/,Reference score is not numeric
+92517,Riverside,Riverside County,/,Reference score is not numeric
+92519,Riverside,Riverside County,/,Reference score is not numeric; No 2025 market record

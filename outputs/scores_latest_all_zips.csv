@@ -1,0 +1,525 @@
+Zip Code,City,County,PERIOD,MarketScore_hat
+90001,Los Angeles,Los Angeles County,2025-12-31,57.92
+90002,Los Angeles,Los Angeles County,2025-06-30,55.42
+90003,Los Angeles,Los Angeles County,2025-07-31,48.94
+90005,Los Angeles,Los Angeles County,2025-07-31,40.65
+90006,Los Angeles,Los Angeles County,2025-01-31,50.4
+90007,Los Angeles,Los Angeles County,2025-04-30,38.64
+90010,Los Angeles,Los Angeles County,2025-07-31,40.39
+90014,Los Angeles,Los Angeles County,2025-09-30,41.22
+90015,Los Angeles,Los Angeles County,2025-05-31,36.69
+90016,Los Angeles,Los Angeles County,2025-08-31,64.72
+90017,Los Angeles,Los Angeles County,2025-06-30,30.3
+90019,Los Angeles,Los Angeles County,2025-10-31,48.96
+90020,Los Angeles,Los Angeles County,2025-09-30,41.19
+90023,Los Angeles,Los Angeles County,2025-08-31,56.54
+90024,Los Angeles,Los Angeles County,2025-11-30,49.16
+90025,Los Angeles,Los Angeles County,2025-11-30,66.35
+90027,Los Angeles,Los Angeles County,2025-07-31,53.51
+90028,Los Angeles,Los Angeles County,2025-11-30,40.12
+90032,Los Angeles,Los Angeles County,2025-09-30,64.67
+90033,Los Angeles,Los Angeles County,2025-05-31,44.36
+90035,Los Angeles,Los Angeles County,2025-10-31,47.98
+90036,Los Angeles,Los Angeles County,2025-12-31,60.12
+90039,Los Angeles,Los Angeles County,2025-04-30,72.37
+90040,Los Angeles,Los Angeles County,2025-07-31,72.09
+90041,Los Angeles,Los Angeles County,2025-10-31,82.22
+90042,Los Angeles,Los Angeles County,2025-10-31,70.41
+90044,Los Angeles,Los Angeles County,2025-05-31,54.48
+90045,Los Angeles,Los Angeles County,2025-08-31,58.05
+90048,Los Angeles,Los Angeles County,2025-11-30,46.83
+90049,Los Angeles,Los Angeles County,2025-11-30,51.52
+90056,Los Angeles,Los Angeles County,2025-03-31,50.08
+90057,Los Angeles,Los Angeles County,2025-12-31,58.95
+90058,Los Angeles,Los Angeles County,2025-12-31,39.26
+90059,Los Angeles,Los Angeles County,2025-07-31,74.74
+90061,Los Angeles,Los Angeles County,2025-08-31,73.91
+90062,Los Angeles,Los Angeles County,2025-11-30,47.35
+90064,Los Angeles,Los Angeles County,2025-07-31,72.08
+90065,Los Angeles,Los Angeles County,2025-10-31,66.04
+90066,Los Angeles,Los Angeles County,2025-01-31,54.01
+90067,Los Angeles,Los Angeles County,2025-12-31,55.73
+90068,Los Angeles,Los Angeles County,2025-03-31,46.55
+90069,West Hollywood,Los Angeles County,2025-04-30,46.46
+90077,Los Angeles,Los Angeles County,2025-09-30,37.61
+90094,Los Angeles,Los Angeles County,2025-02-28,59.75
+90201,Bell,Los Angeles County,2025-04-30,53.73
+90210,Beverly Hills,Los Angeles County,2025-12-31,38.72
+90211,Beverly Hills,Los Angeles County,2025-09-30,55.72
+90212,Beverly Hills,Los Angeles County,2025-08-31,50.28
+90213,Beverly Hills,Los Angeles County,2025-04-30,30.25
+90220,Compton,Los Angeles County,2025-07-31,64.79
+90222,Compton,Los Angeles County,2025-01-31,67.04
+90232,Culver City,Los Angeles County,2025-09-30,59.13
+90240,Downey,Los Angeles County,2025-01-31,66.08
+90241,Downey,Los Angeles County,2025-08-31,82.15
+90242,Downey,Los Angeles County,2025-08-31,83.95
+90245,El Segundo,Los Angeles County,2025-12-31,64.46
+90247,Gardena,Los Angeles County,2025-08-31,79.12
+90248,Gardena,Los Angeles County,2025-10-31,79.03
+90249,Gardena,Los Angeles County,2025-02-28,78.26
+90250,Hawthorne,Los Angeles County,2025-12-31,70.72
+90254,Hermosa Beach,Los Angeles County,2025-10-31,48.46
+90255,Huntington Park,Los Angeles County,2025-08-31,64.17
+90260,Lawndale,Los Angeles County,2025-07-31,68.19
+90262,Lynwood,Los Angeles County,2025-04-30,59.45
+90265,Malibu,Los Angeles County,2025-05-31,35.4
+90266,Manhattan Beach,Los Angeles County,2025-12-31,65.81
+90270,Maywood,Los Angeles County,2025-12-31,66.3
+90272,Pacific Palisades,Los Angeles County,2025-12-31,49.53
+90274,Palos Verdes Peninsula,Los Angeles County,2025-03-31,59.28
+90275,Rancho Palos Verdes,Los Angeles County,2025-12-31,57.38
+90277,Redondo Beach,Los Angeles County,2025-02-28,74.54
+90280,South Gate,Los Angeles County,2025-04-30,73.02
+90290,Topanga,Los Angeles County,2025-12-31,44.36
+90292,Marina Del Rey,Los Angeles County,2025-02-28,50.36
+90303,Inglewood,Los Angeles County,2025-08-31,63.46
+90304,Inglewood,Los Angeles County,2025-11-30,59.19
+90305,Inglewood,Los Angeles County,2025-08-31,61.0
+90401,Santa Monica,Los Angeles County,2025-12-31,47.09
+90402,Santa Monica,Los Angeles County,2025-08-31,54.28
+90403,Santa Monica,Los Angeles County,2025-05-31,64.17
+90405,Santa Monica,Los Angeles County,2025-12-31,49.56
+90408,Santa Monica,Los Angeles County,2025-11-30,50.79
+90502,Torrance,Los Angeles County,2025-10-31,72.33
+90503,Torrance,Los Angeles County,2025-10-31,83.19
+90504,Torrance,Los Angeles County,2025-04-30,84.44
+90505,Torrance,Los Angeles County,2025-05-31,76.41
+90601,Whittier,Los Angeles County,2025-08-31,79.36
+90602,Whittier,Los Angeles County,2025-01-31,64.65
+90603,Whittier,Los Angeles County,2025-03-31,76.04
+90605,Whittier,Los Angeles County,2025-08-31,66.61
+90620,Buena Park,Orange County,2025-10-31,79.49
+90621,Buena Park,Orange County,2025-07-31,71.04
+90623,La Palma,Orange County,2025-09-30,74.89
+90630,Cypress,Orange County,2025-01-31,88.75
+90631,La Habra,Orange County,2025-11-30,75.84
+90660,Pico Rivera,Los Angeles County,2025-10-31,85.35
+90670,Santa Fe Springs,Los Angeles County,2025-09-30,68.96
+90680,Stanton,Orange County,2025-11-30,80.08
+90701,Artesia,Los Angeles County,2025-07-31,64.72
+90703,Cerritos,Los Angeles County,2025-07-31,82.49
+90706,Bellflower,Los Angeles County,2025-09-30,80.34
+90710,Harbor City,Los Angeles County,2025-06-30,64.47
+90715,Lakewood,Los Angeles County,2025-09-30,56.75
+90716,Hawaiian Gardens,Los Angeles County,2025-05-31,67.5
+90717,Lomita,Los Angeles County,2025-08-31,63.5
+90723,Paramount,Los Angeles County,2025-10-31,63.08
+90731,San Pedro,Los Angeles County,2025-10-31,69.91
+90732,San Pedro,Los Angeles County,2025-09-30,73.65
+90740,Seal Beach,Orange County,2025-04-30,67.76
+90743,Surfside,Orange County,2025-01-31,47.89
+90745,Carson,Los Angeles County,2025-08-31,72.12
+90746,Carson,Los Angeles County,2025-12-31,70.47
+90755,Signal Hill,Los Angeles County,2025-06-30,55.16
+90803,Long Beach,Los Angeles County,2025-03-31,59.36
+90807,Long Beach,Los Angeles County,2025-11-30,77.95
+90810,Long Beach,Los Angeles County,2025-04-30,69.18
+90814,Long Beach,Los Angeles County,2025-11-30,60.05
+91006,Arcadia,Los Angeles County,2025-12-31,56.07
+91008,Duarte,Los Angeles County,2025-12-31,55.91
+91009,Duarte,Los Angeles County,2025-12-31,49.19
+91010,Duarte,Los Angeles County,2025-06-30,76.85
+91011,La Canada Flintridge,Los Angeles County,2025-03-31,82.15
+91016,Monrovia,Los Angeles County,2025-06-30,73.81
+91020,Montrose,Los Angeles County,2025-11-30,80.38
+91024,Sierra Madre,Los Angeles County,2025-01-31,63.38
+91030,South Pasadena,Los Angeles County,2025-04-30,80.41
+91042,Tujunga,Los Angeles County,2025-08-31,68.67
+91101,Pasadena,Los Angeles County,2025-12-31,62.11
+91103,Pasadena,Los Angeles County,2025-06-30,65.79
+91104,Pasadena,Los Angeles County,2025-09-30,85.01
+91105,Pasadena,Los Angeles County,2025-12-31,71.71
+91106,Pasadena,Los Angeles County,2025-10-31,60.14
+91107,Pasadena,Los Angeles County,2025-01-31,77.57
+91108,San Marino,Los Angeles County,2025-07-31,80.12
+91123,Pasadena,Los Angeles County,2025-02-28,38.15
+91201,Glendale,Los Angeles County,2025-08-31,76.61
+91202,Glendale,Los Angeles County,2025-12-31,82.02
+91203,Glendale,Los Angeles County,2025-01-31,77.57
+91204,Glendale,Los Angeles County,2025-01-31,83.85
+91205,Glendale,Los Angeles County,2025-11-30,79.82
+91206,Glendale,Los Angeles County,2025-10-31,82.31
+91207,Glendale,Los Angeles County,2025-02-28,78.03
+91208,Glendale,Los Angeles County,2025-07-31,77.97
+91210,Glendale,Los Angeles County,2025-06-30,80.11
+91301,Agoura Hills,Los Angeles County,2025-12-31,56.11
+91302,Calabasas,Los Angeles County,2025-04-30,50.13
+91303,Canoga Park,Los Angeles County,2025-11-30,43.61
+91304,Canoga Park,Los Angeles County,2025-09-30,59.41
+91306,Winnetka,Los Angeles County,2025-11-30,66.86
+91310,Castaic,Los Angeles County,2025-06-30,49.96
+91311,Chatsworth,Los Angeles County,2025-12-31,70.27
+91313,Chatsworth,Los Angeles County,2025-07-31,63.32
+91316,Encino,Los Angeles County,2025-11-30,55.27
+91320,Newbury Park,Ventura County,2025-04-30,64.68
+91321,Newhall,Los Angeles County,2025-11-30,73.75
+91324,Northridge,Los Angeles County,2025-09-30,58.33
+91325,Northridge,Los Angeles County,2025-12-31,78.88
+91335,Reseda,Los Angeles County,2025-12-31,66.2
+91340,San Fernando,Los Angeles County,2025-12-31,69.77
+91342,Sylmar,Los Angeles County,2025-03-31,67.48
+91343,North Hills,Los Angeles County,2025-10-31,78.94
+91345,Mission Hills,Los Angeles County,2025-11-30,55.76
+91350,Santa Clarita,Los Angeles County,2025-07-31,56.85
+91351,Canyon Country,Los Angeles County,2025-08-31,59.06
+91352,Sun Valley,Los Angeles County,2025-08-31,74.96
+91354,Valencia,Los Angeles County,2025-12-31,53.85
+91355,Valencia,Los Angeles County,2025-08-31,73.94
+91356,Tarzana,Los Angeles County,2025-10-31,50.38
+91360,Thousand Oaks,Ventura County,2025-03-31,68.29
+91361,Westlake Village,Ventura County,2025-06-30,53.77
+91364,Woodland Hills,Los Angeles County,2025-08-31,48.41
+91367,Woodland Hills,Los Angeles County,2025-02-28,58.05
+91390,Santa Clarita,Los Angeles County,2025-09-30,52.42
+91396,Winnetka,Los Angeles County,2025-05-31,55.68
+91401,Van Nuys,Los Angeles County,2025-07-31,67.77
+91402,Panorama City,Los Angeles County,2025-10-31,71.93
+91403,Sherman Oaks,Los Angeles County,2025-11-30,49.27
+91405,Van Nuys,Los Angeles County,2025-12-31,60.99
+91406,Van Nuys,Los Angeles County,2025-06-30,63.08
+91411,Van Nuys,Los Angeles County,2025-12-31,79.47
+91436,Encino,Los Angeles County,2025-01-31,44.37
+91501,Burbank,Los Angeles County,2025-08-31,60.1
+91502,Burbank,Los Angeles County,2025-11-30,63.53
+91504,Burbank,Los Angeles County,2025-04-30,66.89
+91505,Burbank,Los Angeles County,2025-12-31,77.34
+91602,North Hollywood,Los Angeles County,2025-11-30,57.32
+91604,Studio City,Los Angeles County,2025-10-31,58.8
+91605,North Hollywood,Los Angeles County,2025-12-31,61.35
+91606,North Hollywood,Los Angeles County,2025-05-31,55.82
+91609,North Hollywood,Los Angeles County,2025-06-30,53.85
+91701,Alta Loma,San Bernardino County,2025-06-30,74.99
+91702,Azusa,Los Angeles County,2025-12-31,76.04
+91708,Chino,San Bernardino County,2025-03-31,61.94
+91709,Chino Hills,San Bernardino County,2025-11-30,68.79
+91710,Chino,San Bernardino County,2025-12-31,71.22
+91722,Covina,Los Angeles County,2025-11-30,83.79
+91724,Covina,Los Angeles County,2025-06-30,75.34
+91730,Rancho Cucamonga,San Bernardino County,2025-11-30,71.06
+91732,El Monte,Los Angeles County,2025-07-31,62.65
+91733,South El Monte,Los Angeles County,2025-11-30,64.44
+91737,Alta Loma,San Bernardino County,2025-05-31,71.69
+91739,Rancho Cucamonga,San Bernardino County,2025-01-31,71.39
+91740,Glendora,Los Angeles County,2025-11-30,81.56
+91741,Glendora,Los Angeles County,2025-11-30,71.7
+91744,La Puente,Los Angeles County,2025-08-31,75.05
+91746,La Puente,Los Angeles County,2025-06-30,64.86
+91748,Rowland Heights,Los Angeles County,2025-06-30,70.87
+91750,La Verne,Los Angeles County,2025-09-30,70.75
+91755,Monterey Park,Los Angeles County,2025-03-31,56.94
+91758,Ontario,San Bernardino County,2025-05-31,43.2
+91759,Mt Baldy,Los Angeles County,2025-08-31,43.06
+91761,Ontario,San Bernardino County,2025-11-30,70.6
+91763,Montclair,San Bernardino County,2025-11-30,74.8
+91764,Ontario,San Bernardino County,2025-12-31,77.5
+91765,Diamond Bar,Los Angeles County,2025-09-30,63.7
+91766,Pomona,Los Angeles County,2025-07-31,56.03
+91767,Pomona,Los Angeles County,2025-12-31,73.22
+91768,Pomona,Los Angeles County,2025-12-31,74.54
+91775,San Gabriel,Los Angeles County,2025-08-31,86.71
+91776,San Gabriel,Los Angeles County,2025-10-31,72.19
+91780,Temple City,Los Angeles County,2025-08-31,79.07
+91784,Upland,San Bernardino County,2025-04-30,76.6
+91786,Upland,San Bernardino County,2025-08-31,62.48
+91789,Walnut,Los Angeles County,2025-08-31,68.04
+91792,West Covina,Los Angeles County,2025-08-31,81.63
+91801,Alhambra,Los Angeles County,2025-04-30,75.36
+91803,Alhambra,Los Angeles County,2025-08-31,64.72
+91804,Alhambra,Los Angeles County,2025-06-30,74.71
+91901,Alpine,San Diego County,2025-08-31,77.02
+91902,Bonita,San Diego County,2025-11-30,85.37
+91905,Boulevard,San Diego County,2025-12-31,72.59
+91906,Campo,San Diego County,2025-12-31,63.91
+91910,Chula Vista,San Diego County,2025-12-31,85.82
+91911,Chula Vista,San Diego County,2025-05-31,83.62
+91913,Chula Vista,San Diego County,2025-05-31,76.88
+91914,Chula Vista,San Diego County,2025-12-31,61.1
+91915,Chula Vista,San Diego County,2025-06-30,74.0
+91917,Dulzura,San Diego County,2025-08-31,43.44
+91932,Imperial Beach,San Diego County,2025-11-30,65.68
+91934,Jacumba,San Diego County,2025-08-31,55.95
+91935,Jamul,San Diego County,2025-01-31,56.97
+91941,La Mesa,San Diego County,2025-06-30,81.79
+91942,La Mesa,San Diego County,2025-04-30,83.09
+91945,Lemon Grove,San Diego County,2025-02-28,68.55
+91948,Mount Laguna,San Diego County,2025-02-28,41.21
+91950,National City,San Diego County,2025-11-30,76.6
+91962,Pine Valley,San Diego County,2025-09-30,55.47
+91963,Potrero,San Diego County,2025-03-31,39.28
+91977,Spring Valley,San Diego County,2025-06-30,82.07
+91978,Spring Valley,San Diego County,2025-06-30,83.84
+92003,Bonsall,San Diego County,2025-07-31,47.93
+92004,Borrego Springs,San Diego County,2025-03-31,56.43
+92007,Cardiff By The Sea,San Diego County,2025-06-30,65.2
+92008,Carlsbad,San Diego County,2025-12-31,53.43
+92009,Carlsbad,San Diego County,2025-02-28,78.37
+92011,Carlsbad,San Diego County,2025-06-30,77.13
+92019,El Cajon,San Diego County,2025-05-31,72.05
+92020,El Cajon,San Diego County,2025-04-30,80.71
+92021,El Cajon,San Diego County,2025-10-31,77.17
+92023,Encinitas,San Diego County,2025-05-31,57.87
+92025,Escondido,San Diego County,2025-09-30,68.56
+92026,Escondido,San Diego County,2025-12-31,77.32
+92028,Fallbrook,San Diego County,2025-12-31,67.83
+92029,Escondido,San Diego County,2025-02-28,56.87
+92040,Lakeside,San Diego County,2025-06-30,81.35
+92054,Oceanside,San Diego County,2025-03-31,67.57
+92057,Oceanside,San Diego County,2025-08-31,71.45
+92058,Oceanside,San Diego County,2025-06-30,68.12
+92060,Palomar Mountain,San Diego County,2025-07-31,67.25
+92064,Poway,San Diego County,2025-07-31,71.0
+92066,Ranchita,San Diego County,2025-09-30,37.76
+92067,Rancho Santa Fe,San Diego County,2025-10-31,39.59
+92068,San Luis Rey,San Diego County,2025-08-31,61.63
+92069,San Marcos,San Diego County,2025-08-31,76.68
+92070,Santa Ysabel,San Diego County,2025-07-31,61.62
+92075,Solana Beach,San Diego County,2025-06-30,55.75
+92078,San Marcos,San Diego County,2025-08-31,73.85
+92081,Vista,San Diego County,2025-09-30,69.15
+92082,Valley Center,San Diego County,2025-06-30,50.91
+92084,Vista,San Diego County,2025-08-31,62.59
+92086,Warner Springs,San Diego County,2025-06-30,60.9
+92091,Rancho Santa Fe,San Diego County,2025-04-30,54.51
+92101,San Diego,San Diego County,2025-04-30,54.0
+92103,San Diego,San Diego County,2025-01-31,63.25
+92104,San Diego,San Diego County,2025-08-31,75.99
+92106,San Diego,San Diego County,2025-08-31,63.79
+92108,San Diego,San Diego County,2025-07-31,60.6
+92109,San Diego,San Diego County,2025-12-31,67.8
+92111,San Diego,San Diego County,2025-04-30,85.22
+92113,San Diego,San Diego County,2025-11-30,73.58
+92114,San Diego,San Diego County,2025-09-30,88.58
+92115,San Diego,San Diego County,2025-10-31,79.3
+92116,San Diego,San Diego County,2025-07-31,65.05
+92117,San Diego,San Diego County,2025-11-30,84.36
+92120,San Diego,San Diego County,2025-02-28,79.94
+92121,San Diego,San Diego County,2025-10-31,61.46
+92122,San Diego,San Diego County,2025-09-30,67.81
+92123,San Diego,San Diego County,2025-09-30,78.8
+92124,San Diego,San Diego County,2025-07-31,73.14
+92126,San Diego,San Diego County,2025-01-31,76.43
+92127,San Diego,San Diego County,2025-06-30,69.0
+92130,San Diego,San Diego County,2025-02-28,80.93
+92131,San Diego,San Diego County,2025-09-30,73.12
+92154,San Diego,San Diego County,2025-08-31,86.5
+92160,San Diego,San Diego County,2025-11-30,44.65
+92173,San Ysidro,San Diego County,2025-11-30,78.65
+92196,San Diego,San Diego County,2025-04-30,57.06
+92197,San Diego,San Diego County,2025-06-30,69.43
+92201,Indio,Riverside County,2025-06-30,49.96
+92203,Indio,Riverside County,2025-07-31,46.84
+92210,Indian Wells,Riverside County,2025-11-30,49.39
+92211,Palm Desert,Riverside County,2025-09-30,50.03
+92220,Banning,Riverside County,2025-04-30,59.96
+92223,Beaumont,Riverside County,2025-11-30,67.18
+92225,Blythe,Riverside County,2025-11-30,48.3
+92230,Cabazon,Riverside County,2025-12-31,77.09
+92231,Calexico,Imperial County,2025-10-31,55.44
+92233,Calipatria,Imperial County,2025-06-30,73.0
+92234,Cathedral City,Riverside County,2025-12-31,58.93
+92236,Coachella,Riverside County,2025-01-31,62.0
+92240,Desert Hot Springs,Riverside County,2025-07-31,50.6
+92241,Desert Hot Springs,Riverside County,2025-11-30,65.52
+92243,El Centro,Imperial County,2025-06-30,60.44
+92249,Heber,Imperial County,2025-12-31,86.18
+92251,Imperial,Imperial County,2025-04-30,85.07
+92253,La Quinta,Riverside County,2025-07-31,47.84
+92254,Mecca,Riverside County,2025-11-30,66.17
+92255,Palm Desert,Riverside County,2025-08-31,41.07
+92256,Morongo Valley,San Bernardino County,2025-09-30,46.12
+92257,Niland,Imperial County,2025-07-31,39.59
+92258,North Palm Springs,Riverside County,2025-08-31,38.75
+92260,Palm Desert,Riverside County,2025-10-31,48.16
+92262,Palm Springs,Riverside County,2025-12-31,51.49
+92263,Palm Springs,Riverside County,2025-11-30,73.73
+92264,Palm Springs,Riverside County,2025-04-30,51.74
+92268,Pioneertown,San Bernardino County,2025-12-31,63.63
+92270,Rancho Mirage,Riverside County,2025-11-30,52.17
+92273,Seeley,Imperial County,2025-07-31,43.72
+92274,Thermal,Riverside County,2025-08-31,45.77
+92276,Thousand Palms,Riverside County,2025-10-31,45.19
+92277,Twentynine Palms,San Bernardino County,2025-05-31,51.98
+92282,White Water,Riverside County,2025-04-30,46.62
+92283,Winterhaven,Imperial County,2025-11-30,42.16
+92284,Yucca Valley,San Bernardino County,2025-08-31,50.85
+92285,Landers,San Bernardino County,2025-12-31,39.61
+92305,Angelus Oaks,San Bernardino County,2025-06-30,41.51
+92307,Apple Valley,San Bernardino County,2025-12-31,70.08
+92308,Apple Valley,San Bernardino County,2025-12-31,64.31
+92311,Barstow,San Bernardino County,2025-09-30,54.94
+92313,Grand Terrace,San Bernardino County,2025-11-30,71.09
+92314,Big Bear City,San Bernardino County,2025-12-31,47.11
+92315,Big Bear Lake,San Bernardino County,2025-03-31,46.84
+92316,Bloomington,San Bernardino County,2025-03-31,65.74
+92324,Colton,San Bernardino County,2025-09-30,73.52
+92325,Crestline,San Bernardino County,2025-02-28,45.23
+92326,Crest Park,San Bernardino County,2025-10-31,32.57
+92327,Daggett,San Bernardino County,2025-11-30,39.41
+92333,Fawnskin,San Bernardino County,2025-12-31,47.4
+92336,Fontana,San Bernardino County,2025-07-31,70.85
+92337,Fontana,San Bernardino County,2025-07-31,84.28
+92339,Forest Falls,San Bernardino County,2025-11-30,48.42
+92341,Green Valley Lake,San Bernardino County,2025-08-31,63.6
+92344,Hesperia,San Bernardino County,2025-10-31,63.37
+92352,Lake Arrowhead,San Bernardino County,2025-11-30,50.28
+92354,Loma Linda,San Bernardino County,2025-08-31,61.54
+92356,Lucerne Valley,San Bernardino County,2025-10-31,58.91
+92358,Lytle Creek,San Bernardino County,2025-12-31,43.28
+92359,Mentone,San Bernardino County,2025-11-30,70.28
+92366,Mountain Pass,San Bernardino County,2025-11-30,46.76
+92368,Oro Grande,San Bernardino County,2025-06-30,46.59
+92373,Redlands,San Bernardino County,2025-04-30,59.35
+92376,Rialto,San Bernardino County,2025-12-31,69.05
+92377,Rialto,San Bernardino County,2025-05-31,63.04
+92378,Rimforest,San Bernardino County,2025-04-30,41.26
+92382,Running Springs,San Bernardino County,2025-09-30,42.84
+92385,Skyforest,San Bernardino County,2025-12-31,43.27
+92386,Sugarloaf,San Bernardino County,2025-01-31,42.41
+92391,Twin Peaks,San Bernardino County,2025-11-30,46.2
+92392,Victorville,San Bernardino County,2025-03-31,66.05
+92393,Victorville,San Bernardino County,2025-09-30,84.71
+92394,Victorville,San Bernardino County,2025-09-30,60.98
+92395,Victorville,San Bernardino County,2025-08-31,63.72
+92397,Wrightwood,San Bernardino County,2025-06-30,43.71
+92398,Yermo,San Bernardino County,2025-10-31,61.21
+92399,Yucaipa,San Bernardino County,2025-10-31,78.4
+92402,San Bernardino,San Bernardino County,2025-10-31,39.3
+92404,San Bernardino,San Bernardino County,2025-09-30,66.89
+92407,San Bernardino,San Bernardino County,2025-07-31,63.25
+92408,San Bernardino,San Bernardino County,2025-08-31,72.4
+92501,Riverside,Riverside County,2025-12-31,69.49
+92503,Riverside,Riverside County,2025-10-31,68.23
+92504,Riverside,Riverside County,2025-07-31,76.44
+92506,Riverside,Riverside County,2025-07-31,66.1
+92507,Riverside,Riverside County,2025-10-31,57.41
+92508,Riverside,Riverside County,2025-09-30,63.17
+92509,Riverside,Riverside County,2025-11-30,77.77
+92513,Riverside,Riverside County,2025-12-31,54.4
+92517,Riverside,Riverside County,2025-04-30,50.55
+92530,Lake Elsinore,Riverside County,2025-01-31,69.09
+92532,Lake Elsinore,Riverside County,2025-02-28,56.7
+92536,Aguanga,Riverside County,2025-04-30,47.85
+92543,Hemet,Riverside County,2025-07-31,65.69
+92544,Hemet,Riverside County,2025-05-31,66.1
+92545,Hemet,Riverside County,2025-11-30,66.2
+92551,Moreno Valley,Riverside County,2025-06-30,68.86
+92553,Moreno Valley,Riverside County,2025-06-30,69.21
+92555,Moreno Valley,Riverside County,2025-06-30,63.11
+92561,Mountain Center,Riverside County,2025-05-31,41.25
+92562,Murrieta,Riverside County,2025-04-30,63.26
+92563,Murrieta,Riverside County,2025-11-30,70.34
+92564,Murrieta,Riverside County,2025-09-30,53.5
+92570,Perris,Riverside County,2025-01-31,70.34
+92583,San Jacinto,Riverside County,2025-12-31,81.98
+92584,Menifee,Riverside County,2025-10-31,61.14
+92585,Sun City,Riverside County,2025-01-31,70.61
+92586,Sun City,Riverside County,2025-03-31,60.78
+92591,Temecula,Riverside County,2025-06-30,61.64
+92592,Temecula,Riverside County,2025-12-31,63.18
+92595,Wildomar,Riverside County,2025-09-30,81.01
+92596,Winchester,Riverside County,2025-07-31,68.94
+92606,Irvine,Orange County,2025-10-31,61.82
+92610,Foothill Ranch,Orange County,2025-08-31,49.88
+92612,Irvine,Orange County,2025-08-31,50.04
+92618,Irvine,Orange County,2025-08-31,47.41
+92624,Capistrano Beach,Orange County,2025-09-30,58.91
+92625,Corona Del Mar,Orange County,2025-07-31,52.85
+92626,Costa Mesa,Orange County,2025-07-31,66.59
+92627,Costa Mesa,Orange County,2025-11-30,81.45
+92629,Dana Point,Orange County,2025-07-31,56.9
+92630,Lake Forest,Orange County,2025-01-31,70.97
+92637,Laguna Hills,Orange County,2025-03-31,59.92
+92646,Huntington Beach,Orange County,2025-09-30,81.59
+92647,Huntington Beach,Orange County,2025-08-31,80.55
+92648,Huntington Beach,Orange County,2025-07-31,53.43
+92649,Huntington Beach,Orange County,2025-03-31,62.55
+92651,Laguna Beach,Orange County,2025-03-31,42.58
+92655,Midway City,Orange County,2025-11-30,71.88
+92657,Newport Coast,Orange County,2025-02-28,53.86
+92660,Newport Beach,Orange County,2025-10-31,53.71
+92661,Newport Beach,Orange County,2025-05-31,47.92
+92662,Newport Beach,Orange County,2025-10-31,51.45
+92663,Newport Beach,Orange County,2025-10-31,50.5
+92672,San Clemente,Orange County,2025-08-31,53.32
+92673,San Clemente,Orange County,2025-06-30,61.98
+92675,San Juan Capistrano,Orange County,2025-10-31,63.43
+92676,Silverado,Orange County,2025-07-31,60.15
+92677,Laguna Niguel,Orange County,2025-07-31,60.81
+92679,Trabuco Canyon,Orange County,2025-06-30,56.83
+92683,Westminster,Orange County,2025-09-30,89.28
+92688,Rancho Santa Margarita,Orange County,2025-02-28,70.7
+92691,Mission Viejo,Orange County,2025-11-30,68.75
+92692,Mission Viejo,Orange County,2025-01-31,71.58
+92701,Santa Ana,Orange County,2025-11-30,58.3
+92703,Santa Ana,Orange County,2025-08-31,63.51
+92706,Santa Ana,Orange County,2025-11-30,66.69
+92707,Santa Ana,Orange County,2025-09-30,63.67
+92711,Santa Ana,Orange County,2025-06-30,40.6
+92780,Tustin,Orange County,2025-12-31,84.62
+92782,Tustin,Orange County,2025-06-30,74.52
+92801,Anaheim,Orange County,2025-06-30,65.91
+92804,Anaheim,Orange County,2025-08-31,72.33
+92805,Anaheim,Orange County,2025-11-30,68.92
+92807,Anaheim,Orange County,2025-09-30,72.45
+92808,Anaheim,Orange County,2025-08-31,58.68
+92816,Anaheim,Orange County,2025-03-31,61.35
+92821,Brea,Orange County,2025-09-30,82.47
+92831,Fullerton,Orange County,2025-12-31,67.48
+92832,Fullerton,Orange County,2025-03-31,53.78
+92833,Fullerton,Orange County,2025-06-30,78.86
+92835,Fullerton,Orange County,2025-10-31,84.75
+92840,Garden Grove,Orange County,2025-11-30,82.08
+92841,Garden Grove,Orange County,2025-03-31,66.49
+92843,Garden Grove,Orange County,2025-09-30,71.09
+92844,Garden Grove,Orange County,2025-12-31,85.24
+92845,Garden Grove,Orange County,2025-08-31,81.78
+92860,Norco,Riverside County,2025-04-30,64.95
+92866,Orange,Orange County,2025-12-31,69.67
+92867,Orange,Orange County,2025-07-31,73.4
+92868,Orange,Orange County,2025-08-31,67.27
+92880,Corona,Riverside County,2025-12-31,70.95
+92881,Corona,Riverside County,2025-09-30,54.0
+92882,Corona,Riverside County,2025-02-28,74.81
+92883,Corona,Riverside County,2025-12-31,57.94
+92886,Yorba Linda,Orange County,2025-02-28,61.49
+93004,Ventura,Ventura County,2025-10-31,67.13
+93013,Carpinteria,Santa Barbara County,2025-07-31,63.63
+93015,Fillmore,Ventura County,2025-10-31,49.08
+93022,Oak View,Ventura County,2025-02-28,43.73
+93023,Ojai,Ventura County,2025-08-31,40.99
+93033,Oxnard,Ventura County,2025-12-31,87.28
+93041,Port Hueneme,Ventura County,2025-03-31,56.7
+93060,Santa Paula,Ventura County,2025-11-30,59.02
+93065,Simi Valley,Ventura County,2025-07-31,63.52
+93066,Somis,Ventura County,2025-09-30,46.52
+93101,Santa Barbara,Santa Barbara County,2025-02-28,49.51
+93105,Santa Barbara,Santa Barbara County,2025-11-30,63.01
+93108,Santa Barbara,Santa Barbara County,2025-11-30,44.98
+93109,Santa Barbara,Santa Barbara County,2025-06-30,57.17
+93110,Santa Barbara,Santa Barbara County,2025-05-31,60.56
+93111,Santa Barbara,Santa Barbara County,2025-11-30,66.56
+93117,Goleta,Santa Barbara County,2025-02-28,74.61
+93130,Santa Barbara,,2025-06-30,83.79
+93150,Santa Barbara,,2025-11-30,44.11
+93252,Maricopa,Kern County,2025-10-31,75.39
+93427,Buellton,Santa Barbara County,2025-05-31,58.92
+93434,Guadalupe,Santa Barbara County,2025-08-31,68.49
+93436,Lompoc,Santa Barbara County,2025-07-31,75.51
+93441,Los Olivos,Santa Barbara County,2025-08-31,44.69
+93455,Santa Maria,Santa Barbara County,2025-10-31,87.34
+93458,Santa Maria,Santa Barbara County,2025-05-31,73.65
+93460,Santa Ynez,Santa Barbara County,2025-12-31,40.06
+93463,Solvang,Santa Barbara County,2025-12-31,62.54
+93516,Boron,Kern County,2025-04-30,49.73
+93532,Lake Hughes,Los Angeles County,2025-06-30,44.0
+93534,Lancaster,Los Angeles County,2025-10-31,71.42
+93543,Littlerock,Los Angeles County,2025-03-31,48.21
+93544,Llano,Los Angeles County,2025-09-30,66.11
+93550,Palmdale,Los Angeles County,2025-09-30,74.06
+93551,Palmdale,Los Angeles County,2025-03-31,64.08
+93552,Palmdale,Los Angeles County,2025-07-31,65.58
+93553,Pearblossom,Los Angeles County,2025-10-31,45.51
+93562,Trona,San Bernardino County,2025-03-31,43.46
+93563,Valyermo,Los Angeles County,2025-04-30,61.87
+93591,Palmdale,Los Angeles County,2025-05-31,63.34

@@ -1,0 +1,84 @@
+Zip Code,City,County,PERIOD,y_true,y_pred
+90001,Los Angeles,Los Angeles County,2025-12-31,49.0,59.6599
+90002,Los Angeles,Los Angeles County,2025-06-30,69.0,54.1997
+90003,Los Angeles,Los Angeles County,2025-07-31,57.0,47.3783
+90005,Los Angeles,Los Angeles County,2025-07-31,31.0,41.5646
+90006,Los Angeles,Los Angeles County,2025-01-31,49.0,52.9338
+90007,Los Angeles,Los Angeles County,2025-04-30,15.0,42.9839
+90010,Los Angeles,Los Angeles County,2025-07-31,44.0,41.9417
+90014,Los Angeles,Los Angeles County,2025-09-30,17.0,51.7973
+90015,Los Angeles,Los Angeles County,2025-05-31,27.0,38.8495
+90016,Los Angeles,Los Angeles County,2025-08-31,63.0,64.5242
+90017,Los Angeles,Los Angeles County,2025-06-30,21.0,35.0001
+90019,Los Angeles,Los Angeles County,2025-10-31,46.0,48.6079
+90020,Los Angeles,Los Angeles County,2025-09-30,34.0,38.8962
+90023,Los Angeles,Los Angeles County,2025-08-31,50.0,60.3833
+90024,Los Angeles,Los Angeles County,2025-11-30,50.0,48.8846
+90025,Los Angeles,Los Angeles County,2025-11-30,55.0,66.6959
+90027,Los Angeles,Los Angeles County,2025-07-31,62.0,53.3566
+90028,Los Angeles,Los Angeles County,2025-11-30,32.0,41.353
+90032,Los Angeles,Los Angeles County,2025-09-30,66.0,64.752
+90033,Los Angeles,Los Angeles County,2025-05-31,51.0,43.8592
+90035,Los Angeles,Los Angeles County,2025-10-31,53.0,48.7865
+90036,Los Angeles,Los Angeles County,2025-12-31,52.0,60.8482
+90039,Los Angeles,Los Angeles County,2025-04-30,77.0,71.4044
+90040,Los Angeles,Los Angeles County,2025-07-31,80.0,70.6323
+90041,Los Angeles,Los Angeles County,2025-10-31,80.0,83.3733
+90042,Los Angeles,Los Angeles County,2025-10-31,74.0,69.7151
+90044,Los Angeles,Los Angeles County,2025-05-31,61.0,53.4403
+90045,Los Angeles,Los Angeles County,2025-08-31,75.0,57.1846
+90048,Los Angeles,Los Angeles County,2025-11-30,48.0,47.2218
+90049,Los Angeles,Los Angeles County,2025-11-30,50.0,51.992
+90056,Los Angeles,Los Angeles County,2025-03-31,48.0,49.9699
+90057,Los Angeles,Los Angeles County,2025-12-31,55.0,59.6001
+90059,Los Angeles,Los Angeles County,2025-07-31,73.0,75.044
+90061,Los Angeles,Los Angeles County,2025-08-31,73.0,73.9552
+90062,Los Angeles,Los Angeles County,2025-11-30,53.0,47.423
+90064,Los Angeles,Los Angeles County,2025-07-31,81.0,71.1166
+90065,Los Angeles,Los Angeles County,2025-10-31,69.0,65.5015
+90066,Los Angeles,Los Angeles County,2025-01-31,76.0,52.5718
+90067,Los Angeles,Los Angeles County,2025-12-31,36.0,58.3736
+90068,Los Angeles,Los Angeles County,2025-03-31,43.0,47.535
+90077,Los Angeles,Los Angeles County,2025-09-30,29.0,39.772
+90094,Los Angeles,Los Angeles County,2025-02-28,67.0,59.9076
+92101,San Diego,San Diego County,2025-04-30,55.0,54.7801
+92103,San Diego,San Diego County,2025-01-31,65.0,62.9708
+92104,San Diego,San Diego County,2025-08-31,79.0,77.9957
+92106,San Diego,San Diego County,2025-08-31,69.0,62.2589
+92108,San Diego,San Diego County,2025-07-31,66.0,60.3642
+92109,San Diego,San Diego County,2025-12-31,68.0,67.9159
+92111,San Diego,San Diego County,2025-04-30,75.0,86.0005
+92113,San Diego,San Diego County,2025-11-30,79.0,73.5338
+92114,San Diego,San Diego County,2025-09-30,80.0,88.8266
+92115,San Diego,San Diego County,2025-10-31,78.0,80.1534
+92116,San Diego,San Diego County,2025-07-31,79.0,64.8502
+92117,San Diego,San Diego County,2025-11-30,81.0,84.0175
+92120,San Diego,San Diego County,2025-02-28,75.0,80.4512
+92121,San Diego,San Diego County,2025-10-31,79.0,56.1347
+92122,San Diego,San Diego County,2025-09-30,67.0,65.8565
+92123,San Diego,San Diego County,2025-09-30,78.0,78.4859
+92124,San Diego,San Diego County,2025-07-31,75.0,72.9404
+92126,San Diego,San Diego County,2025-01-31,79.0,75.6243
+92127,San Diego,San Diego County,2025-06-30,65.0,69.3099
+92130,San Diego,San Diego County,2025-02-28,72.0,81.3095
+92131,San Diego,San Diego County,2025-09-30,73.0,71.3315
+92154,San Diego,San Diego County,2025-08-31,89.0,85.5704
+92197,San Diego,San Diego County,2025-06-30,86.0,69.2894
+92402,San Bernardino,San Bernardino County,2025-10-31,56.0,34.6836
+92404,San Bernardino,San Bernardino County,2025-09-30,70.0,66.0996
+92407,San Bernardino,San Bernardino County,2025-07-31,68.0,63.7158
+92408,San Bernardino,San Bernardino County,2025-08-31,73.0,72.2753
+92501,Riverside,Riverside County,2025-12-31,71.0,69.8123
+92503,Riverside,Riverside County,2025-10-31,67.0,68.7919
+92504,Riverside,Riverside County,2025-07-31,71.0,76.6519
+92506,Riverside,Riverside County,2025-07-31,60.0,67.1804
+92507,Riverside,Riverside County,2025-10-31,63.0,57.2593
+92508,Riverside,Riverside County,2025-09-30,66.0,62.7502
+92509,Riverside,Riverside County,2025-11-30,69.0,77.9093
+92606,Irvine,Orange County,2025-10-31,55.0,62.3543
+92612,Irvine,Orange County,2025-08-31,49.0,51.0585
+92618,Irvine,Orange County,2025-08-31,42.0,48.9574
+92701,Santa Ana,Orange County,2025-11-30,61.0,58.101
+92703,Santa Ana,Orange County,2025-08-31,56.0,63.0407
+92706,Santa Ana,Orange County,2025-11-30,70.0,65.7762
+92707,Santa Ana,Orange County,2025-09-30,73.0,62.6827

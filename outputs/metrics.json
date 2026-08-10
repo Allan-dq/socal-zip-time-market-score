@@ -1,0 +1,47 @@
+{
+  "best_params": {
+    "model__alpha": 10.0
+  },
+  "city_holdout_metrics": {
+    "mae": 9.07262100048157,
+    "r2": 0.43287615436460514,
+    "rmse": 12.391730146317926,
+    "spearman": 0.7491167502010152
+  },
+  "distribution_shift": {
+    "adversarial_auc_mean": 0.7587466765306736,
+    "adversarial_auc_std": 0.06282371128312007,
+    "calibration_distance_p95_threshold": 2.55005162544439,
+    "features_abs_smd_over_0_5": 2,
+    "target_ood_share": 0.12471655328798185,
+    "target_rows": 441
+  },
+  "oof_mae_bootstrap_95_interval": [
+    5.809815905718087,
+    8.63071838410674
+  ],
+  "oof_metrics": {
+    "mae": 7.173023953824379,
+    "r2": 0.648714911467053,
+    "rmse": 9.752654760700242,
+    "spearman": 0.8255709498647933
+  },
+  "selected_model": "Ridge | current levels",
+  "temporal_stability": {
+    "consecutive_comparisons": 11681,
+    "median_absolute_consecutive_change": 5.164203609993592,
+    "median_absolute_year_over_year_change": 5.767180276443341,
+    "p95_absolute_consecutive_change": 19.15471110072251,
+    "p95_absolute_year_over_year_change": 19.992644708937174,
+    "share_consecutive_change_over_10": 0.2345689581371458,
+    "share_consecutive_change_over_15": 0.10264532146220358,
+    "share_year_over_year_change_over_15": 0.11856410256410256,
+    "year_over_year_comparisons": 4875
+  },
+  "training_metrics_descriptive_only": {
+    "mae": 6.32603660522463,
+    "r2": 0.7416039236150875,
+    "rmse": 8.36442228704752,
+    "spearman": 0.858689552493492
+  }
+}

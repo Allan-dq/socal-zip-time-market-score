@@ -1,0 +1,17 @@
+{
+  "calibration_rows": 83,
+  "duplicate_zip_period_rows": 0,
+  "feature_missing_rate_all": 0.027059059863398953,
+  "feature_missing_rate_calibration": 0.0,
+  "invalid_period_duration_rows": 0,
+  "latest_2025_rows": 524,
+  "numeric_reference_scores": 120,
+  "period_end": "2025-12-31",
+  "period_start": "2012-03-31",
+  "reference_rows": 143,
+  "source_columns": 54,
+  "source_rows": 12445,
+  "unique_period_end_dates": 166,
+  "unique_zips": 764,
+  "zips_without_2025": 240
+}

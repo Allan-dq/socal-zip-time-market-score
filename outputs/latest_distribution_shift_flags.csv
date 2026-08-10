@@ -1,0 +1,442 @@
+Zip Code,City,County,PERIOD_END,nearest_calibration_distance,ood_flag
+92564,Murrieta,Riverside County,2025-09-30,4.54067525014531,True
+93563,Valyermo,Los Angeles County,2025-04-30,4.276795845155659,True
+91934,Jacumba,San Diego County,2025-08-31,4.000226005410554,True
+92393,Victorville,San Bernardino County,2025-09-30,3.789249040294034,True
+92517,Riverside,Riverside County,2025-04-30,3.6285410975477834,True
+92233,Calipatria,Imperial County,2025-06-30,3.5983015257818765,True
+92225,Blythe,Riverside County,2025-11-30,3.54342002000849,True
+93544,Llano,Los Angeles County,2025-09-30,3.50947245553658,True
+92254,Mecca,Riverside County,2025-11-30,3.4754421580632617,True
+92398,Yermo,San Bernardino County,2025-10-31,3.4715610698430703,True
+92068,San Luis Rey,San Diego County,2025-08-31,3.390799801756528,True
+92230,Cabazon,Riverside County,2025-12-31,3.384687182818425,True
+91917,Dulzura,San Diego County,2025-08-31,3.3505963885286127,True
+90743,Surfside,Orange County,2025-01-31,3.214268131365149,True
+91609,North Hollywood,Los Angeles County,2025-06-30,3.189917973671382,True
+92263,Palm Springs,Riverside County,2025-11-30,3.1463394292491116,True
+92283,Winterhaven,Imperial County,2025-11-30,3.1138115451144563,True
+92273,Seeley,Imperial County,2025-07-31,3.099903982059656,True
+93130,Santa Barbara,,2025-06-30,3.08380280511728,True
+92086,Warner Springs,San Diego County,2025-06-30,3.0705025484670694,True
+92255,Palm Desert,Riverside County,2025-08-31,3.024112440268622,True
+92060,Palomar Mountain,San Diego County,2025-07-31,3.000905441128354,True
+92004,Borrego Springs,San Diego County,2025-03-31,2.9939891318695975,True
+92513,Riverside,Riverside County,2025-12-31,2.9917593984174586,True
+92249,Heber,Imperial County,2025-12-31,2.980293326169874,True
+92339,Forest Falls,San Bernardino County,2025-11-30,2.9107288200214305,True
+92023,Encinitas,San Diego County,2025-05-31,2.886354557105185,True
+91009,Duarte,Los Angeles County,2025-12-31,2.8532822285743102,True
+93434,Guadalupe,Santa Barbara County,2025-08-31,2.8475643657965057,True
+91914,Chula Vista,San Diego County,2025-12-31,2.8307535550390406,True
+90270,Maywood,Los Angeles County,2025-12-31,2.8210518837039493,True
+92274,Thermal,Riverside County,2025-08-31,2.795345811052293,True
+91210,Glendale,Los Angeles County,2025-06-30,2.792962667118662,True
+92326,Crest Park,San Bernardino County,2025-10-31,2.7711395562474297,True
+92253,La Quinta,Riverside County,2025-07-31,2.7559355178180245,True
+92285,Landers,San Bernardino County,2025-12-31,2.7525321574154615,True
+91902,Bonita,San Diego County,2025-11-30,2.751512033253913,True
+92655,Midway City,Orange County,2025-11-30,2.746346613312147,True
+93066,Somis,Ventura County,2025-09-30,2.742874489094339,True
+90715,Lakewood,Los Angeles County,2025-09-30,2.722135506119295,True
+92243,El Centro,Imperial County,2025-06-30,2.707623340145718,True
+93150,Santa Barbara,,2025-11-30,2.6972599987450017,True
+92366,Mountain Pass,San Bernardino County,2025-11-30,2.67093759533244,True
+92356,Lucerne Valley,San Bernardino County,2025-10-31,2.6684767802633766,True
+92386,Sugarloaf,San Bernardino County,2025-01-31,2.6672027223329304,True
+91207,Glendale,Los Angeles County,2025-02-28,2.6580436674034207,True
+92268,Pioneertown,San Bernardino County,2025-12-31,2.657709137956082,True
+92236,Coachella,Riverside County,2025-01-31,2.6536986760883403,True
+92070,Santa Ysabel,San Diego County,2025-07-31,2.6536925855617883,True
+92210,Indian Wells,Riverside County,2025-11-30,2.640614376539467,True
+90408,Santa Monica,Los Angeles County,2025-11-30,2.6180455118774524,True
+92341,Green Valley Lake,San Bernardino County,2025-08-31,2.5920410258689754,True
+91905,Boulevard,San Diego County,2025-12-31,2.5841017012402343,True
+92231,Calexico,Imperial County,2025-10-31,2.5636474345790154,True
+93441,Los Olivos,Santa Barbara County,2025-08-31,2.5526149817475208,True
+91901,Alpine,San Diego County,2025-08-31,2.54641413370541,False
+92251,Imperial,Imperial County,2025-04-30,2.514993948102429,False
+92160,San Diego,San Diego County,2025-11-30,2.512545656118483,False
+93458,Santa Maria,Santa Barbara County,2025-05-31,2.503192605429751,False
+92368,Oro Grande,San Bernardino County,2025-06-30,2.4839969113649087,False
+92382,Running Springs,San Bernardino County,2025-09-30,2.4806806125767276,False
+92711,Santa Ana,Orange County,2025-06-30,2.4760920686441104,False
+93562,Trona,San Bernardino County,2025-03-31,2.4720097120496853,False
+91352,Sun Valley,Los Angeles County,2025-08-31,2.459592597831716,False
+92359,Mentone,San Bernardino County,2025-11-30,2.455979197587929,False
+90304,Inglewood,Los Angeles County,2025-11-30,2.439594044664275,False
+91356,Tarzana,Los Angeles County,2025-10-31,2.420931257395065,False
+90213,Beverly Hills,Los Angeles County,2025-04-30,2.3956318448832454,False
+91784,Upland,San Bernardino County,2025-04-30,2.3902094252532935,False
+93516,Boron,Kern County,2025-04-30,2.390062580986908,False
+92264,Palm Springs,Riverside County,2025-04-30,2.354459404676682,False
+91906,Campo,San Diego County,2025-12-31,2.3387338043376418,False
+91313,Chatsworth,Los Angeles County,2025-07-31,2.336621582557233,False
+90701,Artesia,Los Angeles County,2025-07-31,2.3266591743836718,False
+93553,Pearblossom,Los Angeles County,2025-10-31,2.3266431317742637,False
+91935,Jamul,San Diego County,2025-01-31,2.313153788717381,False
+91978,Spring Valley,San Diego County,2025-06-30,2.2988322539218258,False
+90621,Buena Park,Orange County,2025-07-31,2.28568817245066,False
+92256,Morongo Valley,San Bernardino County,2025-09-30,2.283390503513681,False
+90601,Whittier,Los Angeles County,2025-08-31,2.2776666546840314,False
+92270,Rancho Mirage,Riverside County,2025-11-30,2.275711992580528,False
+92276,Thousand Palms,Riverside County,2025-10-31,2.2730612739836347,False
+90717,Lomita,Los Angeles County,2025-08-31,2.2709748065288413,False
+91008,Duarte,Los Angeles County,2025-12-31,2.2668004612585513,False
+92082,Valley Center,San Diego County,2025-06-30,2.2648867562962263,False
+90201,Bell,Los Angeles County,2025-04-30,2.249322660269946,False
+93591,Palmdale,Los Angeles County,2025-05-31,2.2386640598858856,False
+92260,Palm Desert,Riverside County,2025-10-31,2.234846827105285,False
+92626,Costa Mesa,Orange County,2025-07-31,2.2268461502617476,False
+92385,Skyforest,San Bernardino County,2025-12-31,2.225335153863357,False
+90746,Carson,Los Angeles County,2025-12-31,2.2207822266931454,False
+92211,Palm Desert,Riverside County,2025-09-30,2.216863554799281,False
+91123,Pasadena,Los Angeles County,2025-02-28,2.2088356311012265,False
+92029,Escondido,San Diego County,2025-02-28,2.206907192743428,False
+92196,San Diego,San Diego County,2025-04-30,2.203655449448492,False
+91106,Pasadena,Los Angeles County,2025-10-31,2.1949135092230447,False
+90810,Long Beach,Los Angeles County,2025-04-30,2.1908587474401036,False
+91204,Glendale,Los Angeles County,2025-01-31,2.188747858980533,False
+92595,Wildomar,Riverside County,2025-09-30,2.18863814409799,False
+90260,Lawndale,Los Angeles County,2025-07-31,2.185450932084128,False
+90303,Inglewood,Los Angeles County,2025-08-31,2.1845664294965923,False
+92262,Palm Springs,Riverside County,2025-12-31,2.1844807586736374,False
+91758,Ontario,San Bernardino County,2025-05-31,2.180304589582904,False
+91325,Northridge,Los Angeles County,2025-12-31,2.164111799636224,False
+90706,Bellflower,Los Angeles County,2025-09-30,2.1620138905409183,False
+92234,Cathedral City,Riverside County,2025-12-31,2.1597194088752247,False
+91201,Glendale,Los Angeles County,2025-08-31,2.1536629400614804,False
+92354,Loma Linda,San Bernardino County,2025-08-31,2.1487165994955912,False
+92843,Garden Grove,Orange County,2025-09-30,2.141480042415256,False
+92844,Garden Grove,Orange County,2025-12-31,2.134774873358753,False
+92377,Rialto,San Bernardino County,2025-05-31,2.129961414793158,False
+92173,San Ysidro,San Diego County,2025-11-30,2.1218098974486606,False
+93033,Oxnard,Ventura County,2025-12-31,2.1212818210377815,False
+91310,Castaic,Los Angeles County,2025-06-30,2.1189047965866816,False
+90623,La Palma,Orange County,2025-09-30,2.1161214411831577,False
+90402,Santa Monica,Los Angeles County,2025-08-31,2.114413992065578,False
+92241,Desert Hot Springs,Riverside County,2025-11-30,2.1098070779660762,False
+90058,Los Angeles,Los Angeles County,2025-12-31,2.106717972270428,False
+92091,Rancho Santa Fe,San Diego County,2025-04-30,2.103381988158179,False
+90211,Beverly Hills,Los Angeles County,2025-09-30,2.0940457744405094,False
+91741,Glendora,Los Angeles County,2025-11-30,2.092296149122589,False
+92305,Angelus Oaks,San Bernardino County,2025-06-30,2.08592232795635,False
+92835,Fullerton,Orange County,2025-10-31,2.0793446943116143,False
+92860,Norco,Riverside County,2025-04-30,2.0767915823916616,False
+91303,Canoga Park,Los Angeles County,2025-11-30,2.065526591712069,False
+90605,Whittier,Los Angeles County,2025-08-31,2.0647406175700764,False
+92676,Silverado,Orange County,2025-07-31,2.0618158137493205,False
+92662,Newport Beach,Orange County,2025-10-31,2.0609620551177494,False
+91767,Pomona,Los Angeles County,2025-12-31,2.058587110291108,False
+92391,Twin Peaks,San Bernardino County,2025-11-30,2.0535881511830705,False
+90716,Hawaiian Gardens,Los Angeles County,2025-05-31,2.0505535816495493,False
+91020,Montrose,Los Angeles County,2025-11-30,2.049711359469978,False
+90401,Santa Monica,Los Angeles County,2025-12-31,2.0485669521468286,False
+91501,Burbank,Los Angeles County,2025-08-31,2.0437173224275265,False
+91724,Covina,Los Angeles County,2025-06-30,2.041391063561238,False
+90305,Inglewood,Los Angeles County,2025-08-31,2.0374473646147164,False
+92886,Yorba Linda,Orange County,2025-02-28,2.035348520559932,False
+92081,Vista,San Diego County,2025-09-30,2.034338868859413,False
+93427,Buellton,Santa Barbara County,2025-05-31,2.0323317972297255,False
+92808,Anaheim,Orange County,2025-08-31,2.0297106998788412,False
+91913,Chula Vista,San Diego County,2025-05-31,2.0227532580689647,False
+92880,Corona,Riverside County,2025-12-31,2.0202709818106763,False
+91024,Sierra Madre,Los Angeles County,2025-01-31,2.0174424478802497,False
+92637,Laguna Hills,Orange County,2025-03-31,2.014746207650308,False
+92201,Indio,Riverside County,2025-06-30,2.0139915887631106,False
+90241,Downey,Los Angeles County,2025-08-31,2.012445491602746,False
+92816,Anaheim,Orange County,2025-03-31,2.011565829371662,False
+91606,North Hollywood,Los Angeles County,2025-05-31,2.0100847075555826,False
+93015,Fillmore,Ventura County,2025-10-31,2.001418165335004,False
+91304,Canoga Park,Los Angeles County,2025-09-30,2.000476661012645,False
+91750,La Verne,Los Angeles County,2025-09-30,1.9974605095160556,False
+90807,Long Beach,Los Angeles County,2025-11-30,1.9934982470401488,False
+91768,Pomona,Los Angeles County,2025-12-31,1.9913166464447525,False
+92315,Big Bear Lake,San Bernardino County,2025-03-31,1.9901683797994587,False
+92325,Crestline,San Bernardino County,2025-02-28,1.9898316975638377,False
+90732,San Pedro,Los Angeles County,2025-09-30,1.982914142824552,False
+91367,Woodland Hills,Los Angeles County,2025-02-28,1.9811915067624977,False
+90245,El Segundo,Los Angeles County,2025-12-31,1.9805499914599556,False
+92397,Wrightwood,San Bernardino County,2025-06-30,1.9795322262954185,False
+92257,Niland,Imperial County,2025-07-31,1.9787941406446241,False
+93532,Lake Hughes,Los Angeles County,2025-06-30,1.9755966032954757,False
+90222,Compton,Los Angeles County,2025-01-31,1.9723357348363175,False
+91737,Alta Loma,San Bernardino County,2025-05-31,1.9685812861093024,False
+92845,Garden Grove,Orange County,2025-08-31,1.9670205570939658,False
+90240,Downey,Los Angeles County,2025-01-31,1.9621683734253668,False
+91763,Montclair,San Bernardino County,2025-11-30,1.9522752561851,False
+93109,Santa Barbara,Santa Barbara County,2025-06-30,1.9510828354462155,False
+92840,Garden Grove,Orange County,2025-11-30,1.9486119051377992,False
+91306,Winnetka,Los Angeles County,2025-11-30,1.9456868095728335,False
+90266,Manhattan Beach,Los Angeles County,2025-12-31,1.9423333794962394,False
+92020,El Cajon,San Diego County,2025-04-30,1.9407747613548747,False
+90755,Signal Hill,Los Angeles County,2025-06-30,1.9399087478863501,False
+92007,Cardiff By The Sea,San Diego County,2025-06-30,1.9389196330235392,False
+91301,Agoura Hills,Los Angeles County,2025-12-31,1.9372772892093018,False
+92661,Newport Beach,Orange County,2025-05-31,1.935418370547212,False
+91803,Alhambra,Los Angeles County,2025-08-31,1.9351419173134452,False
+92561,Mountain Center,Riverside County,2025-05-31,1.9330046251564013,False
+91739,Rancho Cucamonga,San Bernardino County,2025-01-31,1.93265401845772,False
+92832,Fullerton,Orange County,2025-03-31,1.9295338102444224,False
+92327,Daggett,San Bernardino County,2025-11-30,1.9281738378031117,False
+92831,Fullerton,Orange County,2025-12-31,1.9269452883825096,False
+90602,Whittier,Los Angeles County,2025-01-31,1.9265037963336615,False
+92203,Indio,Riverside County,2025-07-31,1.9200116391966684,False
+93108,Santa Barbara,Santa Barbara County,2025-11-30,1.9191874059149858,False
+92282,White Water,Riverside County,2025-04-30,1.9134567758919392,False
+90603,Whittier,Los Angeles County,2025-03-31,1.9126746148343803,False
+90710,Harbor City,Los Angeles County,2025-06-30,1.9111126750642602,False
+91746,La Puente,Los Angeles County,2025-06-30,1.9110104040650393,False
+91722,Covina,Los Angeles County,2025-11-30,1.9060742734504972,False
+92316,Bloomington,San Bernardino County,2025-03-31,1.8992192430907895,False
+91316,Encino,Los Angeles County,2025-11-30,1.8944850847384465,False
+91755,Monterey Park,Los Angeles County,2025-03-31,1.8936995688966154,False
+90814,Long Beach,Los Angeles County,2025-11-30,1.8863666845872584,False
+92284,Yucca Valley,San Bernardino County,2025-08-31,1.880968378274663,False
+92009,Carlsbad,San Diego County,2025-02-28,1.8773365797995665,False
+90220,Compton,Los Angeles County,2025-07-31,1.876466036260015,False
+92394,Victorville,San Bernardino County,2025-09-30,1.8699000350054105,False
+92627,Costa Mesa,Orange County,2025-11-30,1.8678871365337844,False
+93004,Ventura,Ventura County,2025-10-31,1.8677864100324584,False
+92277,Twentynine Palms,San Bernardino County,2025-05-31,1.8662475115562969,False
+92308,Apple Valley,San Bernardino County,2025-12-31,1.8603483271744754,False
+91780,Temple City,Los Angeles County,2025-08-31,1.8599084819431788,False
+92551,Moreno Valley,Riverside County,2025-06-30,1.8582626687254975,False
+92344,Hesperia,San Bernardino County,2025-10-31,1.8568910486079508,False
+92078,San Marcos,San Diego County,2025-08-31,1.8546883605245292,False
+91740,Glendora,Los Angeles County,2025-11-30,1.849045664325692,False
+93117,Goleta,Santa Barbara County,2025-02-28,1.8422769589285617,False
+93543,Littlerock,Los Angeles County,2025-03-31,1.8396071935792457,False
+92868,Orange,Orange County,2025-08-31,1.8389700629585686,False
+90262,Lynwood,Los Angeles County,2025-04-30,1.8339987588657842,False
+92583,San Jacinto,Riverside County,2025-12-31,1.8316704631168774,False
+90670,Santa Fe Springs,Los Angeles County,2025-09-30,1.8292815687748063,False
+92057,Oceanside,San Diego County,2025-08-31,1.8267179123695427,False
+92058,Oceanside,San Diego County,2025-06-30,1.824942815167832,False
+90731,San Pedro,Los Angeles County,2025-10-31,1.824903262777176,False
+92258,North Palm Springs,Riverside County,2025-08-31,1.8234726148554632,False
+92867,Orange,Orange County,2025-07-31,1.8230074983652318,False
+90703,Cerritos,Los Angeles County,2025-07-31,1.8226823584194372,False
+92378,Rimforest,San Bernardino County,2025-04-30,1.8196896617132041,False
+92324,Colton,San Bernardino County,2025-09-30,1.818605022522733,False
+91324,Northridge,Los Angeles County,2025-09-30,1.818394111140088,False
+91350,Santa Clarita,Los Angeles County,2025-07-31,1.8148583833584486,False
+90630,Cypress,Orange County,2025-01-31,1.8109356910994256,False
+90405,Santa Monica,Los Angeles County,2025-12-31,1.8103824270929658,False
+90232,Culver City,Los Angeles County,2025-09-30,1.808579676772436,False
+91101,Pasadena,Los Angeles County,2025-12-31,1.8082315194918681,False
+92069,San Marcos,San Diego County,2025-08-31,1.8079145011124613,False
+92067,Rancho Santa Fe,San Diego County,2025-10-31,1.804820689685537,False
+91104,Pasadena,Los Angeles County,2025-09-30,1.8030700831848425,False
+92663,Newport Beach,Orange County,2025-10-31,1.7969893651614586,False
+92314,Big Bear City,San Bernardino County,2025-12-31,1.7940061834248615,False
+90620,Buena Park,Orange County,2025-10-31,1.793956355485984,False
+91402,Panorama City,Los Angeles County,2025-10-31,1.7910596839127018,False
+90660,Pico Rivera,Los Angeles County,2025-10-31,1.7897705658315364,False
+91765,Diamond Bar,Los Angeles County,2025-09-30,1.7873711887544226,False
+91948,Mount Laguna,San Diego County,2025-02-28,1.78657819712378,False
+91950,National City,San Diego County,2025-11-30,1.7743921082143939,False
+91766,Pomona,Los Angeles County,2025-07-31,1.7719398440848086,False
+91502,Burbank,Los Angeles County,2025-11-30,1.7712772628871378,False
+92333,Fawnskin,San Bernardino County,2025-12-31,1.771228958125977,False
+92805,Anaheim,Orange County,2025-11-30,1.771036648936864,False
+92821,Brea,Orange County,2025-09-30,1.7696257643491626,False
+90277,Redondo Beach,Los Angeles County,2025-02-28,1.7657582993297252,False
+91343,North Hills,Los Angeles County,2025-10-31,1.7643778564326218,False
+91202,Glendale,Los Angeles County,2025-12-31,1.7603610556587868,False
+93455,Santa Maria,Santa Barbara County,2025-10-31,1.7501310733020796,False
+91406,Van Nuys,Los Angeles County,2025-06-30,1.7485767642635417,False
+91732,El Monte,Los Angeles County,2025-07-31,1.7429043644670248,False
+91932,Imperial Beach,San Diego County,2025-11-30,1.7406791206347427,False
+91748,Rowland Heights,Los Angeles County,2025-06-30,1.7404974299388243,False
+93065,Simi Valley,Ventura County,2025-07-31,1.7403932499231267,False
+91345,Mission Hills,Los Angeles County,2025-11-30,1.7380212819755263,False
+91915,Chula Vista,San Diego County,2025-06-30,1.7332066685012986,False
+91342,Sylmar,Los Angeles County,2025-03-31,1.7331715759235604,False
+92352,Lake Arrowhead,San Bernardino County,2025-11-30,1.7298937292649432,False
+90212,Beverly Hills,Los Angeles County,2025-08-31,1.7254176564456551,False
+93111,Santa Barbara,Santa Barbara County,2025-11-30,1.7214791116976305,False
+93552,Palmdale,Los Angeles County,2025-07-31,1.7199439953949827,False
+92021,El Cajon,San Diego County,2025-10-31,1.7155787482566667,False
+92311,Barstow,San Bernardino County,2025-09-30,1.714643939625596,False
+91360,Thousand Oaks,Ventura County,2025-03-31,1.7079340103259815,False
+92028,Fallbrook,San Diego County,2025-12-31,1.7073239043654054,False
+92026,Escondido,San Diego County,2025-12-31,1.704346776170952,False
+91105,Pasadena,Los Angeles County,2025-12-31,1.7038495501425048,False
+93105,Santa Barbara,Santa Barbara County,2025-11-30,1.7035654894098056,False
+92630,Lake Forest,Orange County,2025-01-31,1.700990158256044,False
+91733,South El Monte,Los Angeles County,2025-11-30,1.6986143899734538,False
+92610,Foothill Ranch,Orange County,2025-08-31,1.6941984378390937,False
+91941,La Mesa,San Diego County,2025-06-30,1.6939939537533426,False
+93110,Santa Barbara,Santa Barbara County,2025-05-31,1.6895662149118218,False
+91401,Van Nuys,Los Angeles County,2025-07-31,1.6891238062625142,False
+92882,Corona,Riverside County,2025-02-28,1.6868500241431652,False
+92679,Trabuco Canyon,Orange County,2025-06-30,1.679503539910571,False
+92673,San Clemente,Orange County,2025-06-30,1.6762471699394366,False
+92807,Anaheim,Orange County,2025-09-30,1.6745010665815336,False
+90265,Malibu,Los Angeles County,2025-05-31,1.6647810984832014,False
+90723,Paramount,Los Angeles County,2025-10-31,1.6647445803205547,False
+90740,Seal Beach,Orange County,2025-04-30,1.6595315179150942,False
+91801,Alhambra,Los Angeles County,2025-04-30,1.6550184719704248,False
+92399,Yucaipa,San Bernardino County,2025-10-31,1.6550113350550144,False
+92536,Aguanga,Riverside County,2025-04-30,1.6548603140912426,False
+93023,Ojai,Ventura County,2025-08-31,1.6543175029620727,False
+91320,Newbury Park,Ventura County,2025-04-30,1.6537005839124777,False
+92392,Victorville,San Bernardino County,2025-03-31,1.652265158349771,False
+92543,Hemet,Riverside County,2025-07-31,1.6493299624439548,False
+92804,Anaheim,Orange County,2025-08-31,1.6452135480394823,False
+90403,Santa Monica,Los Angeles County,2025-05-31,1.6351179125473778,False
+91396,Winnetka,Los Angeles County,2025-05-31,1.6233847545481672,False
+90745,Carson,Los Angeles County,2025-08-31,1.6189364886275122,False
+92544,Hemet,Riverside County,2025-05-31,1.6181876383462754,False
+91354,Valencia,Los Angeles County,2025-12-31,1.6163110623173058,False
+92532,Lake Elsinore,Riverside County,2025-02-28,1.599804403603352,False
+92780,Tustin,Orange County,2025-12-31,1.5974769232703852,False
+90502,Torrance,Los Angeles County,2025-10-31,1.5960418414268327,False
+92313,Grand Terrace,San Bernardino County,2025-11-30,1.581482084106861,False
+91361,Westlake Village,Ventura County,2025-06-30,1.5794830658440424,False
+90247,Gardena,Los Angeles County,2025-08-31,1.5789040072170617,False
+91203,Glendale,Los Angeles County,2025-01-31,1.5781012981739064,False
+91042,Tujunga,Los Angeles County,2025-08-31,1.5757754468892804,False
+92692,Mission Viejo,Orange County,2025-01-31,1.5722112812764721,False
+93436,Lompoc,Santa Barbara County,2025-07-31,1.5707393128435874,False
+92675,San Juan Capistrano,Orange County,2025-10-31,1.5681159865478962,False
+91605,North Hollywood,Los Angeles County,2025-12-31,1.564658010545382,False
+91702,Azusa,Los Angeles County,2025-12-31,1.5600766686281062,False
+91108,San Marino,Los Angeles County,2025-07-31,1.5600424835627282,False
+91321,Newhall,Los Angeles County,2025-11-30,1.5596825364499798,False
+92629,Dana Point,Orange County,2025-07-31,1.5594235035405253,False
+92307,Apple Valley,San Bernardino County,2025-12-31,1.5589740932395924,False
+91390,Santa Clarita,Los Angeles County,2025-09-30,1.5579581534411528,False
+91016,Monrovia,Los Angeles County,2025-06-30,1.5571219659425088,False
+92586,Sun City,Riverside County,2025-03-31,1.5541683595755107,False
+90242,Downey,Los Angeles County,2025-08-31,1.554167913122963,False
+91792,West Covina,Los Angeles County,2025-08-31,1.5481645002601412,False
+92591,Temecula,Riverside County,2025-06-30,1.5456092243979727,False
+91764,Ontario,San Bernardino County,2025-12-31,1.545301666860965,False
+91011,La Canada Flintridge,Los Angeles County,2025-03-31,1.5406233941299765,False
+92337,Fontana,San Bernardino County,2025-07-31,1.539784724880042,False
+92075,Solana Beach,San Diego County,2025-06-30,1.5391796959934796,False
+91710,Chino,San Bernardino County,2025-12-31,1.539158287881967,False
+90505,Torrance,Los Angeles County,2025-05-31,1.531642593396888,False
+91602,North Hollywood,Los Angeles County,2025-11-30,1.531618004669329,False
+91311,Chatsworth,Los Angeles County,2025-12-31,1.5252146582891553,False
+93460,Santa Ynez,Santa Barbara County,2025-12-31,1.5222374169523347,False
+91206,Glendale,Los Angeles County,2025-10-31,1.5154749444781446,False
+93060,Santa Paula,Ventura County,2025-11-30,1.5146061097955434,False
+90249,Gardena,Los Angeles County,2025-02-28,1.5118062667402257,False
+92584,Menifee,Riverside County,2025-10-31,1.510096978192643,False
+90272,Pacific Palisades,Los Angeles County,2025-12-31,1.5087242713479734,False
+92240,Desert Hot Springs,Riverside County,2025-07-31,1.5084169595146264,False
+92084,Vista,San Diego County,2025-08-31,1.507141073025212,False
+91789,Walnut,Los Angeles County,2025-08-31,1.505210831636101,False
+91107,Pasadena,Los Angeles County,2025-01-31,1.5048811436282594,False
+91505,Burbank,Los Angeles County,2025-12-31,1.5013585094298945,False
+92019,El Cajon,San Diego County,2025-05-31,1.5010517789491138,False
+92064,Poway,San Diego County,2025-07-31,1.4917001649956008,False
+91945,Lemon Grove,San Diego County,2025-02-28,1.491525776108006,False
+91977,Spring Valley,San Diego County,2025-06-30,1.4881802967765623,False
+93551,Palmdale,Los Angeles County,2025-03-31,1.4880995513908677,False
+90274,Palos Verdes Peninsula,Los Angeles County,2025-03-31,1.4878352417903573,False
+90290,Topanga,Los Angeles County,2025-12-31,1.4872414246524879,False
+92555,Moreno Valley,Riverside County,2025-06-30,1.4758040687663905,False
+91708,Chino,San Bernardino County,2025-03-31,1.475022292800132,False
+91411,Van Nuys,Los Angeles County,2025-12-31,1.473840974353296,False
+91730,Rancho Cucamonga,San Bernardino County,2025-11-30,1.4731361151549736,False
+92596,Winchester,Riverside County,2025-07-31,1.4720370403197696,False
+91403,Sherman Oaks,Los Angeles County,2025-11-30,1.4692167248560883,False
+91405,Van Nuys,Los Angeles County,2025-12-31,1.4545632203499212,False
+90210,Beverly Hills,Los Angeles County,2025-12-31,1.4509651221390731,False
+92395,Victorville,San Bernardino County,2025-08-31,1.44981357843689,False
+92003,Bonsall,San Diego County,2025-07-31,1.4484009921713046,False
+92570,Perris,Riverside County,2025-01-31,1.446423015222452,False
+91701,Alta Loma,San Bernardino County,2025-06-30,1.446110047390889,False
+91006,Arcadia,Los Angeles County,2025-12-31,1.4430692700602934,False
+91030,South Pasadena,Los Angeles County,2025-04-30,1.436468316700433,False
+91910,Chula Vista,San Diego County,2025-12-31,1.4357279643657508,False
+91335,Reseda,Los Angeles County,2025-12-31,1.4311219547766427,False
+91364,Woodland Hills,Los Angeles County,2025-08-31,1.4264887445680163,False
+92585,Sun City,Riverside County,2025-01-31,1.4232665833912603,False
+92545,Hemet,Riverside County,2025-11-30,1.4229507333025986,False
+92040,Lakeside,San Diego County,2025-06-30,1.4165344903847024,False
+91776,San Gabriel,Los Angeles County,2025-10-31,1.4104216708476633,False
+93550,Palmdale,Los Angeles County,2025-09-30,1.406895457015781,False
+92223,Beaumont,Riverside County,2025-11-30,1.3941731771073511,False
+91205,Glendale,Los Angeles County,2025-11-30,1.3935294565842409,False
+91942,La Mesa,San Diego County,2025-04-30,1.3769649772029187,False
+93013,Carpinteria,Santa Barbara County,2025-07-31,1.3759917770516101,False
+92866,Orange,Orange County,2025-12-31,1.3755660274534574,False
+90292,Marina Del Rey,Los Angeles County,2025-02-28,1.3737613707334104,False
+93022,Oak View,Ventura County,2025-02-28,1.362595499912586,False
+92833,Fullerton,Orange County,2025-06-30,1.358818602195441,False
+91759,Mt Baldy,Los Angeles County,2025-08-31,1.3524352684565824,False
+92011,Carlsbad,San Diego County,2025-06-30,1.3521497180351967,False
+91709,Chino Hills,San Bernardino County,2025-11-30,1.3459677966754917,False
+92553,Moreno Valley,Riverside County,2025-06-30,1.3300970489846597,False
+91744,La Puente,Los Angeles County,2025-08-31,1.3283083706759518,False
+92625,Corona Del Mar,Orange County,2025-07-31,1.324811295797139,False
+92336,Fontana,San Bernardino County,2025-07-31,1.3187679078470835,False
+91604,Studio City,Los Angeles County,2025-10-31,1.3088314428042813,False
+91504,Burbank,Los Angeles County,2025-04-30,1.3085557379052668,False
+92841,Garden Grove,Orange County,2025-03-31,1.3032664253862591,False
+92688,Rancho Santa Margarita,Orange County,2025-02-28,1.2992968048361293,False
+93041,Port Hueneme,Ventura County,2025-03-31,1.2962494986982478,False
+92008,Carlsbad,San Diego County,2025-12-31,1.2927112421320717,False
+92624,Capistrano Beach,Orange County,2025-09-30,1.292590215846039,False
+91962,Pine Valley,San Diego County,2025-09-30,1.2848803446106056,False
+92376,Rialto,San Bernardino County,2025-12-31,1.2843898939979674,False
+91355,Valencia,Los Angeles County,2025-08-31,1.2810247746991015,False
+91963,Potrero,San Diego County,2025-03-31,1.2760376973838436,False
+92054,Oceanside,San Diego County,2025-03-31,1.2727125508198482,False
+92592,Temecula,Riverside County,2025-12-31,1.2684539519342353,False
+90280,South Gate,Los Angeles County,2025-04-30,1.2670932020401042,False
+92373,Redlands,San Bernardino County,2025-04-30,1.2631384310941587,False
+92358,Lytle Creek,San Bernardino County,2025-12-31,1.2625764631830625,False
+93463,Solvang,Santa Barbara County,2025-12-31,1.259964695683435,False
+90250,Hawthorne,Los Angeles County,2025-12-31,1.2587749155338217,False
+91804,Alhambra,Los Angeles County,2025-06-30,1.2532562173126787,False
+91436,Encino,Los Angeles County,2025-01-31,1.2525708869727088,False
+91208,Glendale,Los Angeles County,2025-07-31,1.2518470657854002,False
+93252,Maricopa,Kern County,2025-10-31,1.2473820083413036,False
+92801,Anaheim,Orange County,2025-06-30,1.2365257761367994,False
+92220,Banning,Riverside County,2025-04-30,1.2303734013266305,False
+92683,Westminster,Orange County,2025-09-30,1.215309845539705,False
+92651,Laguna Beach,Orange County,2025-03-31,1.2065897210324528,False
+90631,La Habra,Orange County,2025-11-30,1.203700409617445,False
+92883,Corona,Riverside County,2025-12-31,1.203564199062288,False
+91911,Chula Vista,San Diego County,2025-05-31,1.2006544707300857,False
+90503,Torrance,Los Angeles County,2025-10-31,1.18661209726394,False
+92562,Murrieta,Riverside County,2025-04-30,1.176963437886456,False
+91761,Ontario,San Bernardino County,2025-11-30,1.1742395918875437,False
+92660,Newport Beach,Orange County,2025-10-31,1.1606815692149233,False
+90275,Rancho Palos Verdes,Los Angeles County,2025-12-31,1.1568097938454847,False
+91010,Duarte,Los Angeles County,2025-06-30,1.1557208491402384,False
+93534,Lancaster,Los Angeles County,2025-10-31,1.1525192432409805,False
+90680,Stanton,Orange County,2025-11-30,1.1421248040804084,False
+91775,San Gabriel,Los Angeles County,2025-08-31,1.1325925738547291,False
+92646,Huntington Beach,Orange County,2025-09-30,1.1295005704503351,False
+90803,Long Beach,Los Angeles County,2025-03-31,1.1276901916238407,False
+93101,Santa Barbara,Santa Barbara County,2025-02-28,1.1197655514474623,False
+91340,San Fernando,Los Angeles County,2025-12-31,1.116430434010445,False
+92657,Newport Coast,Orange County,2025-02-28,1.1143402531100268,False
+90248,Gardena,Los Angeles County,2025-10-31,1.1082315036956165,False
+90254,Hermosa Beach,Los Angeles County,2025-10-31,1.096064470125261,False
+91103,Pasadena,Los Angeles County,2025-06-30,1.0723834579969798,False
+92881,Corona,Riverside County,2025-09-30,1.0721092290225909,False
+92025,Escondido,San Diego County,2025-09-30,1.069364585451,False
+92691,Mission Viejo,Orange County,2025-11-30,1.0583260424791443,False
+91302,Calabasas,Los Angeles County,2025-04-30,1.0548581162245894,False
+91786,Upland,San Bernardino County,2025-08-31,1.0537037395410822,False
+90504,Torrance,Los Angeles County,2025-04-30,1.0140690131460373,False
+92648,Huntington Beach,Orange County,2025-07-31,1.0055808728451616,False
+90255,Huntington Park,Los Angeles County,2025-08-31,1.003210456150467,False
+92647,Huntington Beach,Orange County,2025-08-31,0.9889262793076002,False
+90069,West Hollywood,Los Angeles County,2025-04-30,0.9844735840744315,False
+92677,Laguna Niguel,Orange County,2025-07-31,0.9597171722859293,False
+92782,Tustin,Orange County,2025-06-30,0.9423368400745783,False
+92649,Huntington Beach,Orange County,2025-03-31,0.9253217234987126,False
+92530,Lake Elsinore,Riverside County,2025-01-31,0.8860104197988862,False
+91351,Canyon Country,Los Angeles County,2025-08-31,0.8422118834275983,False
+92672,San Clemente,Orange County,2025-08-31,0.7895000141876244,False
+92563,Murrieta,Riverside County,2025-11-30,0.7800273840495038,False
+92066,Ranchita,San Diego County,2025-09-30,0.3812896760049508,False

@@ -1,0 +1,6 @@
+signal,rows,expected_direction,spearman_correlation,direction_aligned
+Sold above list share,524,positive,0.7136763796627137,True
+Average sale-to-list ratio,524,positive,0.7537171321458189,True
+Median days on market,524,negative,-0.7759117929384295,True
+Inventory,511,negative,-0.06037376886055141,True
+List-price drop proxy,510,negative,-0.04703810045456912,True
