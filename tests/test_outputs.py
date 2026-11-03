@@ -1,4 +1,4 @@
-"""Data-contract tests for generated assignment outputs."""
+"""Data-contract tests for generated outputs."""
 
 from __future__ import annotations
 

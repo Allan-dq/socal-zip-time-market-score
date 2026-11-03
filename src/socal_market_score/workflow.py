@@ -1,4 +1,4 @@
-"""End-to-end orchestration for the SoCal market-score assignment."""
+"""End-to-end orchestration for the SoCal market-score project."""
 
 from __future__ import annotations
 

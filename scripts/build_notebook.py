@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build and execute the English assignment notebook."""
+"""Build and execute the analysis notebook."""
 
 from __future__ import annotations
 
@@ -39,7 +39,7 @@ def build_notebook() -> nbformat.NotebookNode:
             """
 # SoCal ZIP-by-Time Market Score Model
 
-This notebook is the executable companion to the assignment report. It performs the required latest-2025 calibration and every optional task: all-period scoring, a time-series example, feature interpretation, temporal validation, and geographic distribution-shift analysis.
+This notebook is the executable companion to the technical report. It covers the latest-2025 calibration and the extended analyses: all-period scoring, a time-series example, feature interpretation, temporal validation, and geographic distribution-shift analysis.
 
 The score is contemporaneous and descriptive. It is not a forecast.
 """
@@ -130,7 +130,7 @@ context["comparison"][comparison_columns]
             """
 ## 4. Reference-score validation
 
-`y_pred` in the required evaluation CSV is the mean repeated nested-CV out-of-fold prediction for each labeled ZIP, not an in-sample fitted value.
+`y_pred` in the evaluation CSV is the mean repeated nested-CV out-of-fold prediction for each labeled ZIP, not an in-sample fitted value.
 """
         ),
         code(
@@ -154,13 +154,13 @@ display(latest_scores.nsmallest(10, "MarketScore_hat"))
         code('context["sanity_checks"]'),
         code('display(Image(filename=str(FIGURE_DIR / "top_bottom_latest.png")))'),
         code('display(Image(filename=str(FIGURE_DIR / "sanity_checks.png")))'),
-        markdown("## 7. Optional all-period score series and stability"),
+        markdown("## 7. All-period score series and stability"),
         code('pd.Series(context["stability_summary"], name="Value").to_frame()'),
         code('display(Image(filename=str(FIGURE_DIR / "score_trend_example.png")))'),
         code('display(Image(filename=str(FIGURE_DIR / "temporal_stability.png")))'),
         markdown(
             """
-## 8. Optional distribution-shift analysis
+## 8. Distribution-shift analysis
 
 Feature-level standardized differences and KS statistics are complemented by adversarial validation. A high adversarial AUC means the selected reference ZIPs can be distinguished from the other latest-2025 ZIPs, which warns that random CV may not fully describe deployment risk.
 """
@@ -168,7 +168,7 @@ Feature-level standardized differences and KS statistics are complemented by adv
         code('pd.Series(context["shift_summary"], name="Value").to_frame()'),
         code('context["feature_shift"].head(12)'),
         code('display(Image(filename=str(FIGURE_DIR / "distribution_shift.png")))'),
-        markdown("## 9. Deliverable audit"),
+        markdown("## 9. Output audit"),
         code(
             """
 required_files = [

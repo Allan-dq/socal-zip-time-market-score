@@ -219,7 +219,7 @@ def _markdown_table(frame: pd.DataFrame, columns: list[str]) -> str:
 
 
 def write_report(path: Path, context: dict[str, Any]) -> None:
-    """Write the completed English assignment report with measured results."""
+    """Write the technical report with measured results."""
     audit = context["audit"]
     selected = context["selected_spec"]
     oof = context["oof_metrics"]
@@ -281,7 +281,7 @@ def write_report(path: Path, context: dict[str, Any]) -> None:
 
 ## Executive summary
 
-This solution builds a single, bounded, explainable market score for every available Southern California ZIP-period record. It completes both the required latest-2025 calibration and every optional deliverable: full-period scoring, a time-series example, feature interpretation, geographic shift diagnostics, and output validation.
+This project builds a single, bounded, explainable market score for every available Southern California ZIP-period record. It covers the latest-2025 calibration and the extended analyses: full-period scoring, a time-series example, feature interpretation, geographic shift diagnostics, and output validation.
 
 The usable calibration sample contains **{audit['calibration_rows']} ZIPs**. That is small relative to the correlated real-estate feature set, so model choice was based on repeated nested cross-validation rather than training fit. The selected specification is **{selected.name}**, chosen with the one-standard-error rule. Its repeated nested-CV out-of-fold MAE is **{oof['mae']:.2f} points** (bootstrap 95% interval: **{context['mae_ci'][0]:.2f} to {context['mae_ci'][1]:.2f}**), RMSE is **{oof['rmse']:.2f}**, R-squared is **{oof['r2']:.3f}**, and Spearman correlation is **{oof['spearman']:.3f}**.
 
@@ -289,7 +289,7 @@ The usable calibration sample contains **{audit['calibration_rows']} ZIPs**. Tha
 
 - The SoCal sheet contains {audit['source_rows']:,} rows, {audit['unique_zips']:,} ZIPs, and {audit['unique_period_end_dates']} distinct period-end dates from {audit['period_start']} through {audit['period_end']}.
 - The reference sheet contains {audit['reference_rows']} rows, of which {audit['numeric_reference_scores']} have numeric scores.
-- Following the assignment definition, each ZIP's latest record is the maximum `PERIOD_END` within calendar year 2025. This yields {audit['latest_2025_rows']} latest-scoring rows.
+- By definition, each ZIP's latest record is the maximum `PERIOD_END` within calendar year 2025. This yields {audit['latest_2025_rows']} latest-scoring rows.
 - After excluding non-numeric reference scores and reference ZIPs with no 2025 record, {audit['calibration_rows']} rows remain for supervised calibration.
 - {audit['zips_without_2025']} source ZIPs have no 2025 record and are excluded from latest-period output, but their existing historical rows remain in the all-period file.
 - Duplicate `(Zip Code, PERIOD_END)` rows: {audit['duplicate_zip_period_rows']}. Invalid period durations: {audit['invalid_period_duration_rows']}.
@@ -329,7 +329,7 @@ Final full-sample tuning parameters: `{context['best_params']}`.
 
 ## 4. Reference-score validation
 
-The required evaluation file contains repeated nested-CV predictions, not in-sample fitted values. This is the most defensible estimate available without a separate labeled test set.
+The evaluation file contains repeated nested-CV predictions, not in-sample fitted values. This is the most defensible estimate available without a separate labeled test set.
 
 - OOF MAE: {oof['mae']:.3f}
 - OOF RMSE: {oof['rmse']:.3f}
@@ -376,7 +376,7 @@ The selected reference ZIPs are compared with the other latest-2025 scoring ZIPs
 
 This is evidence of possible covariate shift, not proof that the score relationship changes. Under covariate shift, ordinary CV can misrepresent deployment risk; see [Sugiyama et al.]({RESEARCH_SOURCES['covariate_shift']}). Recommended production actions are to collect labels from underrepresented counties, monitor the same diagnostics by refresh, flag distant ZIPs for review, and evaluate importance weighting or regional recalibration only after obtaining a defensible target-domain validation set.
 
-## 9. Deliverables
+## 9. Outputs
 
 - `outputs/scores_latest_select_zips_eval.csv`: valid reference ZIPs with honest OOF predictions.
 - `outputs/scores_latest_all_zips.csv`: all ZIPs with a 2025 record, using each ZIP's latest 2025 row.
@@ -391,7 +391,7 @@ This is evidence of possible covariate shift, not proof that the score relations
 2. The reference score is treated as the supervised target; its construction and label uncertainty are unknown.
 3. Percentile ranks are batch-relative. Scoring a new period requires a contemporaneous cohort of ZIP feature rows.
 4. The model is associative, not causal. Coefficients and permutation importance do not establish that changing a market metric will change the true underlying market quality.
-5. Clipping guarantees the required bounds but can compress extreme predictions.
+5. Clipping guarantees the 0-100 bounds but can compress extreme predictions.
 6. No future market values or external datasets are used. This solution must not be presented as a price or market forecast.
 
 ## 11. Reproducibility

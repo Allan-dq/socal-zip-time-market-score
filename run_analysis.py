@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Run the complete SoCal ZIP-by-time market-score assignment."""
+"""Run the complete SoCal ZIP-by-time market-score project."""
 
 from __future__ import annotations
 

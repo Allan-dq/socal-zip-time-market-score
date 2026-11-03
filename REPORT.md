@@ -2,7 +2,7 @@
 
 ## Executive summary
 
-This solution builds a single, bounded, explainable market score for every available Southern California ZIP-period record. It completes both the required latest-2025 calibration and every optional deliverable: full-period scoring, a time-series example, feature interpretation, geographic shift diagnostics, and output validation.
+This project builds a single, bounded, explainable market score for every available Southern California ZIP-period record. It covers the latest-2025 calibration and the extended analyses: full-period scoring, a time-series example, feature interpretation, geographic shift diagnostics, and output validation.
 
 The usable calibration sample contains **83 ZIPs**. That is small relative to the correlated real-estate feature set, so model choice was based on repeated nested cross-validation rather than training fit. The selected specification is **Ridge | current levels**, chosen with the one-standard-error rule. Its repeated nested-CV out-of-fold MAE is **7.17 points** (bootstrap 95% interval: **5.81 to 8.63**), RMSE is **9.75**, R-squared is **0.649**, and Spearman correlation is **0.826**.
 
@@ -10,7 +10,7 @@ The usable calibration sample contains **83 ZIPs**. That is small relative to th
 
 - The SoCal sheet contains 12,445 rows, 764 ZIPs, and 166 distinct period-end dates from 2012-03-31 through 2025-12-31.
 - The reference sheet contains 143 rows, of which 120 have numeric scores.
-- Following the assignment definition, each ZIP's latest record is the maximum `PERIOD_END` within calendar year 2025. This yields 524 latest-scoring rows.
+- By definition, each ZIP's latest record is the maximum `PERIOD_END` within calendar year 2025. This yields 524 latest-scoring rows.
 - After excluding non-numeric reference scores and reference ZIPs with no 2025 record, 83 rows remain for supervised calibration.
 - 240 source ZIPs have no 2025 record and are excluded from latest-period output, but their existing historical rows remain in the all-period file.
 - Duplicate `(Zip Code, PERIOD_END)` rows: 0. Invalid period durations: 0.
@@ -69,7 +69,7 @@ Final full-sample tuning parameters: `{'model__alpha': 10.0}`.
 
 ## 4. Reference-score validation
 
-The required evaluation file contains repeated nested-CV predictions, not in-sample fitted values. This is the most defensible estimate available without a separate labeled test set.
+The evaluation file contains repeated nested-CV predictions, not in-sample fitted values. This is the most defensible estimate available without a separate labeled test set.
 
 - OOF MAE: 7.173
 - OOF RMSE: 9.753
@@ -149,7 +149,7 @@ The selected reference ZIPs are compared with the other latest-2025 scoring ZIPs
 
 This is evidence of possible covariate shift, not proof that the score relationship changes. Under covariate shift, ordinary CV can misrepresent deployment risk; see [Sugiyama et al.](https://www.jmlr.org/papers/v8/sugiyama07a.html). Recommended production actions are to collect labels from underrepresented counties, monitor the same diagnostics by refresh, flag distant ZIPs for review, and evaluate importance weighting or regional recalibration only after obtaining a defensible target-domain validation set.
 
-## 9. Deliverables
+## 9. Outputs
 
 - `outputs/scores_latest_select_zips_eval.csv`: valid reference ZIPs with honest OOF predictions.
 - `outputs/scores_latest_all_zips.csv`: all ZIPs with a 2025 record, using each ZIP's latest 2025 row.
@@ -164,7 +164,7 @@ This is evidence of possible covariate shift, not proof that the score relations
 2. The reference score is treated as the supervised target; its construction and label uncertainty are unknown.
 3. Percentile ranks are batch-relative. Scoring a new period requires a contemporaneous cohort of ZIP feature rows.
 4. The model is associative, not causal. Coefficients and permutation importance do not establish that changing a market metric will change the true underlying market quality.
-5. Clipping guarantees the required bounds but can compress extreme predictions.
+5. Clipping guarantees the 0-100 bounds but can compress extreme predictions.
 6. No future market values or external datasets are used. This solution must not be presented as a price or market forecast.
 
 ## 11. Reproducibility
