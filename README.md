@@ -80,3 +80,7 @@ No external market dataset is used. External sources cited in the report support
 ## Important limitations
 
 Only 83 usable labels are available, concentrated in six cities. The repeated nested-CV result is solid for a dataset of this size, but the lower leave-one-city-out result shows meaningful geographic transport risk. The fitted relationships are associative, and cross-sectional percentile ranks require a contemporaneous ZIP cohort when scoring a new period.
+
+## License
+
+The code is released under the [MIT License](LICENSE). The source workbook in `data/raw/` is not covered by this license.
